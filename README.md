@@ -10,7 +10,7 @@ Leiden work on Upsilon 1.1 (`e3`) and Venetus B (`vb`).
 * https://github.com/hmteditors/leiden2019#useful-links
 
 ## Current editing assignment
-(posted 12 Feb. 2019)
+(posted 26 April 2019)
 
 * [Upsilon 1.1, folio 134 verso + 135 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_134v_135r): *Iliad* 10.483-506 and 10.507-530
 * [Venetus B, folio 139 verso + 140 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_139v_140r): *Iliad* 10.483-506 and 10.507-530
