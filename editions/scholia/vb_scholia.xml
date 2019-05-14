@@ -18,7 +18,7 @@
     <group n="10">
       <text n="msB">
         <body>
-          <div n="138v_1" type="scholion">
+          <div n="139v_1" type="scholion">
             <div n="lemma">
               <p><num value="1">α</num></p>
             </div>
@@ -29,9 +29,9 @@
               <p></p>
           </div>
         </div>
-        <div n="138v_2" type="scholion">
+        <div n="139v_2" type="scholion">
           <div n="lemma">
-            <p><num value="2"> </num></p>
+            <p><num value="2">β</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
@@ -40,9 +40,9 @@
             <p></p>
           </div>
         </div>
-        <div n="138v_3" type="scholion">
+        <div n="139v_3" type="scholion">
           <div n="lemma">
-            <p><num value="3"> </num></p>
+            <p><num value="3">γ</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
@@ -51,9 +51,9 @@
             <p></p>
           </div>
         </div>
-        <div n="138v_4" type="scholion">
+        <div n="139v_4" type="scholion">
           <div n="lemma">
-            <p><num value="4"> </num></p>
+            <p><num value="4">δ</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
@@ -62,9 +62,9 @@
             <p></p>
           </div>
         </div>
-        <div n="138v_5" type="scholion">
+        <div n="139v_5" type="scholion">
           <div n="lemma">
-            <p><num value="5"> </num></p>
+            <p><num value="5">ε</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
@@ -73,9 +73,9 @@
             <p></p>
           </div>
         </div>
-        <div n="138v_6" type="scholion">
+        <div n="139v_6" type="scholion">
           <div n="lemma">
-            <p><num value="6"> </num></p>
+            <p><num value="6">ϛ</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
@@ -84,9 +84,9 @@
             <p></p>
           </div>
         </div>
-        <div n="138v_7" type="scholion">
+        <div n="139v_7" type="scholion">
           <div n="lemma">
-            <p><num value="7"> </num></p>
+            <p><num value="7">ζ</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
@@ -95,9 +95,9 @@
             <p></p>
           </div>
         </div>
-        <div n="138v_8" type="scholion">
+        <div n="139v_8" type="scholion">
           <div n="lemma">
-            <p><num value="8"> </num></p>
+            <p><num value="8">η</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
@@ -106,9 +106,9 @@
             <p></p>
           </div>
         </div>
-        <div n="138v_9" type="scholion">
+        <div n="139v_9" type="scholion">
           <div n="lemma">
-            <p><num value="9"> </num></p>
+            <p><num value="9">θ</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
@@ -117,9 +117,9 @@
             <p></p>
           </div>
         </div>
-        <div n="138v_10" type="scholion">
+        <div n="140r_10" type="scholion">
           <div n="lemma">
-            <p><num value="10"> </num></p>
+            <p><num value="10">ι</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
@@ -128,9 +128,9 @@
             <p> </p>
           </div>
         </div>
-        <div n="139r_11" type="scholion">
+        <div n="140r_11" type="scholion">
           <div n="lemma">
-            <p><num value="11"> </num></p>
+            <p><num value="11">ια</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
@@ -139,9 +139,9 @@
             <p></p>
           </div>
         </div>
-        <div n="139r_12" type="scholion">
+        <div n="140r_12" type="scholion">
           <div n="lemma">
-            <p><num value="12"> </num></p>
+            <p><num value="12">ιβ</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
@@ -150,9 +150,9 @@
             <p></p>
           </div>
         </div>
-        <div n="139r_13" type="scholion">
+        <div n="140r_13" type="scholion">
           <div n="lemma">
-            <p><num value="13"> </num></p>
+            <p><num value="13">ιγ</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
@@ -161,9 +161,9 @@
             <p></p>
           </div>
         </div>
-        <div n="139r_14" type="scholion">
+        <div n="140r_14" type="scholion">
           <div n="lemma">
-            <p><num value="14"> </num></p>
+            <p><num value="14">ιδ</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
@@ -172,9 +172,9 @@
             <p></p>
           </div>
         </div>
-        <div n="139r_15" type="scholion">
+        <div n="140r_15" type="scholion">
           <div n="lemma">
-            <p><num value="15"> </num></p>
+            <p><num value="15">ιε</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
@@ -183,9 +183,20 @@
             <p></p>
           </div>
         </div>
-        <div n="139r_16" type="scholion">
+        <div n="140r_16" type="scholion">
           <div n="lemma">
-            <p><num value="16"> </num></p>
+            <p><num value="16">ιϛ</num></p>
+          </div>
+          <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
+          </div>
+          <div n="comment">
+            <p></p>
+          </div>
+        </div>
+        <div n="140r_17" type="scholion">
+          <div n="lemma">
+            <p><num value="17">ιζ</num></p>
           </div>
           <div n="ref">
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
