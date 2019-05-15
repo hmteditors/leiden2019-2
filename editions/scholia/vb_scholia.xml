@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Scholia to Venetus B</title>
-        <author></author>
+        <author>Evelien Nijveld</author>
+        <author>Suzan Boreel</author>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -18,15 +19,16 @@
     <group n="10">
       <text n="msB">
         <body>
+    <!-- Nota Bene: Currently the fishtails are missing! -->
           <div n="139v_1" type="scholion">
             <div n="lemma">
               <p><num value="1">α</num></p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.483</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>ἐπιστρέφων τὴν ὄψιν ἵνα λάθη- ἢ τῇ καὶ τῇ, ὡς ἐπὶ Ἀχιλλέως- ὃ καὶ ἄμεινον- στόνος δὲ οἷον ὡς ἐν ὕπνῳ ἀναιρουμένων- ὃ καὶ ἄμεινον</p>
           </div>
         </div>
         <div n="139v_2" type="scholion">
@@ -34,10 +36,10 @@
             <p><num value="2">β</num></p>
           </div>
           <div n="ref">
-            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
+            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.485</p>
           </div>
           <div n="comment">
-            <p></p>
+            <p>οἰκεία ἐπ' ἀμφοῖν τοῖν προσώποιν ἡ παραβολή- καὶ γὰρ οὗτοι τῆς ἐκ τοῦ βασιλέως φυλακῆς κοιμωμένου ἐστέρηωτο</p>
           </div>
         </div>
         <div n="139v_3" type="scholion">
@@ -48,7 +50,7 @@
             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
           </div>
           <div n="comment">
-            <p></p>
+            <p>τὸ προγνωστικὸν καὶ φρόνιμον Ὀδυσσέως ἐνδέικνυται- ἐπὶ  μὲν γὰρ ἄλλων ἵππων φησι</p>
           </div>
         </div>
         <div n="139v_4" type="scholion">
