@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor></editor>
+        <editor>Femke de Vries</editor>
+        <editor>Leonie Henkes</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Escorial manuscript Upsilon 1.1 for the Homer Multitext project</p>
@@ -17,9 +18,31 @@
   <text>
     <body>
       <div n="10">
-        <l n="483"></l>
-      
-      </div>
+        <l n="483">κτεῖνε δ’ ἐπιστροφάδην- τῶν δὲ στόνος ὤρνυτ’ ἀεικὴς</l>
+        <l n="484">ἄορι θεινομένων- ἐρυθαίνετο δ’ αἵματι γαῖα-</l>
+        <l n="485">ὡς δὲ λέων μήλοισιν ἀσημάντοισιν ἐπελθὼν.</l>
+        <l n="486">αἴγεσιν ἢ ὀΐεσσι κακὰ φρονέων ἐνορούσῃ,</l>
+        <l n="487">ὣς μὲν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place70">Θρήϊκας</rs> ἄνδρας ἐπῴχετο <persName n="urn:cite2:hmt:pers.v1:pers215">Τυδέος υἱός</persName>-</l>
+        <l n="488">ὄφρα δυώδεκ’ ἔπεφνεν· ἀτὰρ πολύμητις <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεὺς</persName></l>
+        <l n="489">ὅν τινα <persName n="urn:cite2:hmt:pers.v1:pers215">Τυδείδης</persName> ἄορι πλήξειε παραστὰς.</l>
+        <l n="490">τὸν δ’<persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσεὺς</persName> μετόπισθε λαβὼν ποδὸς ἐξερύσασκε.</l>
+        <l n="491">τὰ φρονέων κατὰ θυμὸν, ὅπως καλλίτριχες ἵπποι</l>
+        <l n="492">ῥεῖα διέλθοιεν- μὴ δὲ τρομεοίατο θυμῷ</l>
+        <l n="493">νεκροῖς ἀμβαίνοντες- ἀήθεσσον γὰρ ἔτ’ αὐτῶν-</l>
+        <l n="494">ἀλλ’ ὅτε δὴ βασιλῆα κιχήσατο <persName n="urn:cite2:hmt:pers.v1:pers215">Τυδέος υἱός</persName>,</l>
+        <l n="495">τὸν τρισκαιδέκατον μελιηδέα θυμὸν ἀπηύρα</l>
+        <l n="496">ἀσθμαίνοντα- κακὸν γὰρ ὄναρ κεφαλῇφιν ἐπέστη</l>
+        <l n="497">τὴν νύκτ’ <persName n="urn:cite2:hmt:pers.v1:pers215">Οἰνείδαο πάϊς</persName> διὰ μῆτιν <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθήνης</persName>-</l>
+        <l n="498">τόφρα δ’ ὁ τλήμων <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσεὺς</persName> λύε μώνυχας ἵππους-</l>
+        <l n="499">σὺν δ’ ἤειρεν ἱμᾶσι, καὶ ἐξήλαυνεν ὁμίλου</l>
+        <l n="500">τόξῳ ἐπιπλήσσων- ἐπεὶ οὐ μάστιγα φαεινὴν</l>
+        <l n="501">ποικίλου ἐκ δίφροιο νοήσατο χερσὶν ἑλέσθαι-</l>
+        <l n="502">ῥοίζησεν δ’ ἄρα πιφαύσκων <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδεϊ δίῳ</persName>-</l>
+        <l n="503">Αὐτὰρ ὃ μερμήριζε μένων ὅ τι κύντατον ἕρδοι-</l>
+        <l n="504">ἢ ὅ γε δίφρον ἑλὼν ὅθι ποικίλα τεύχε’ ἔκειτο</l>
+        <l n="505">ῥυμοῦ ἐξερύοι. ἢ ἐκφέροι ὑψόσ’ ἀείρας.</l>
+        <l n="506">ἢ ἔτι τῶν πλεόνων <rs type="ethnic" n="urn:cite2:hmt:place.v1:place70">Θρῃκῶν</rs> ἀπὸ θυμὸν ἕλοιτο-</l>
+              </div>
     </body>
   </text>
 </TEI>
