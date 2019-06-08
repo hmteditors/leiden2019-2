@@ -22,7 +22,7 @@
         <l n="484">ἄορι θεινομένων- ἐρυθαίνετο δ’ αἵματι γαῖα-</l>
         <l n="485">ὡς δὲ λέων μήλοισιν ἀσημάντοισιν ἐπελθὼν-</l>
         <l n="486">αἴγεσιν ἢ ὀΐεσσι- κακὰ φρονέων ἐνορούσῃ,</l>
-        <l n="487">ὣς μὲν <placeName n="urn:cite2:hmt:place.v1:place70">Θρήϊκας</placeName> ἄνδρας ἐπῴχετο <persName n="urn:cite2:hmt:pers.v1:pers215">Τυδέος υἱὸς</persName></l>
+        <l n="487">ὣς μὲν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place70">Θρήϊκας</rs> ἄνδρας ἐπῴχετο <persName n="urn:cite2:hmt:pers.v1:pers215">Τυδέος υἱὸς</persName></l>
         <l n="488">ὄφρα δυώδεκ’ ἔπεφνεν- ἀτὰρ πολύμητις <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεὺς</persName></l>
         <l n="489">ὅν τινα <persName n="urn:cite2:hmt:pers.v1:pers215">Τυδεΐδης</persName> ἄορι πλήξειε παραστὰς,</l>
         <l n="490">τὸν δ’ <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεὺς</persName> μετόπισθε λαβὼν ποδὸς ἐξερύσασκε-</l>
@@ -41,15 +41,12 @@
         <l n="503">αὐτὰρ ὃ μερμήριζε μένων ὅ τι κύντατον ἔρδοι-</l>
         <l n="504">ἦ` ὅ γε δίφρον ἑλὼν ὅθι ποικίλα τεύχε’ ἔκειτο</l>
         <l n="505">ῥυμοῦ ἐξερύοι ἦ` ἐκφέροι ὑψόσ’ ἀείρας,</l>
-        <l n="506">ἢ ἔτι τῶν πλεόνων <placeName n="urn:cite2:hmt:place.v1:place70">Θρηκῶν</placeName> ἀπὸ θυμὸν ἕλοιτο-</l>
-
-<!-- Attention: the following lines are from the right page. These have not been hardcopy edited in any way yet! The text you
-see below is directly copypasted from the RefText file -->
+        <l n="506">ἢ ἔτι τῶν πλεόνων <rs type="ethnic" n="urn:cite2:hmt:place.v1:place70">Θρηκῶν</rs> ἀπὸ θυμὸν ἕλοιτο-</l>
         <l n="507">ἕως ὃ ταῦθ’ ὥρμαινε κατὰ φρένα, τόφρα δ’ <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθήνη</persName></l>
         <l n="508">ἐγγύθεν ἱσταμένη προσέφη <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδεα</persName> δῖον-</l>
         <l n="509">νόστου δὴ μνῆσαι μεγαθύμου <persName n="urn:cite2:hmt:pers.v1:pers215">Τυδέος ὑιὲ</persName></l>
         <l n="510">νῆας ἐπί γλαφυράς. μὴ καὶ πεφοβημένος ἔλθης-</l>
-        <l n="511">μή που τις καὶ <placeName n="urn:cite2:hmt:place.v1:place6">Τρῶας</placeName> ἐγείρησιν θεὸς ἄλλος-</l>
+        <l n="511">μή που τις καὶ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρῶας</rs> ἐγείρησιν θεὸς ἄλλος-</l>
         <l n="512">ὣς φάθ’- ὁ δὲ\ ξυνέηκε θεᾶς ὄπα φωνησάσης-</l>
         <l n="513">καρπαλίμως δ’ ἵππων ἐπεβήσετο- κόψε δ’ <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεὺς</persName></l>
         <l n="514">τόξῳ- τόι δ’ ἐπέτοντο θοὰς ἐπὶ νῆας <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιῶν</rs>-</l>
