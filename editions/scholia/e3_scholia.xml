@@ -6,6 +6,8 @@
         <title>Scholia to Escorial Upsilon 1.1</title>
         <author>Lisa Seldenthuis</author>
         <author>Manon Junggeburt</author>
+        <author>Arjan Nijk</author>
+        <author>Philip Muijtjens</author>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -180,10 +182,10 @@
               <p><num value="14">ιδ</num></p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.519</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>οἰκτρὸν τὸ τὸν ἴδιον ἀνεψιὸν ἐπισκέψασθαι τὸ δεινόν· οὐ μὴν δὲ θρήνους τίθησι καίτοι εὐπορῶν. ἀλλ' ἐν ἑτέρῳ μέρει τῆς ποιήσεως τηρεῖ αὐτοὺς. ἐπὶ <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορι</persName> τεθνεῶτι ⁑</p>
             </div>
           </div>
 
@@ -192,10 +194,10 @@
               <p><num value="15">ιε</num></p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.522</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>ἀνεκαλέσατο· τοῦτο γὰρ συμβαίνειν τοῖς ἐκπληττομένοις ⁑</p>
             </div>
           </div>
 
@@ -204,10 +206,10 @@
               <p><num value="16">ιϛ</num></p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.523</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>ἄκρως τοὺς ἐπτοημένους παρέστησε διὰ τῆς βοῆς καὶ τοῦ θορύβου· καὶ τῆς ἐπι το αυτὸ συνδρομῆς ⁑</p>
             </div>
           </div>
 
@@ -216,10 +218,10 @@
               <p><num value="17">ιζ</num></p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.524</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>τὸ θαῦμα τῶν θεωμένων. τὸ δεινὸν ὑποφαίνει τῶν δραθέντων· <choice><sic>ἀγνοοῦντες</sic><corr>ἀγνοουντες</corr></choice> γὰρ ὅθεν ἡ ἐρημία, ἐθαύμαζον ⁑</p>
             </div>
           </div>
         </body>
